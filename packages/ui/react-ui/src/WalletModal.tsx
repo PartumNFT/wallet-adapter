@@ -143,7 +143,7 @@ export const WalletModal: FC<WalletModalProps> = ({ className = '', container = 
                         </button>
                         {installedWallets.length ? (
                             <>
-                                <h1 className="wallet-adapter-modal-title">Connect a wallet on Solana to continue</h1>
+                                <h1 className="wallet-adapter-modal-title">Connect your Solana wallet</h1>
                                 <ul className="wallet-adapter-modal-list">
                                     {installedWallets.map((wallet) => (
                                         <WalletListItem

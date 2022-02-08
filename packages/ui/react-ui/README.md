@@ -1,4 +1,4 @@
-# `@solana/wallet-adapter-react-ui`
+# `@partum/wallet-adapter-react-ui`
 
 <!-- @TODO -->
 
